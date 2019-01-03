@@ -28,7 +28,7 @@ EPOCHS = 200 #300 standard number of epochs BEFORE stopping early
 LEARNING_RATE = 0.001 # standard learning rate, for static LR only
 BATCH_SIZE = 200 
 VERBOSE_LEVEL = 0 # not verbose
-DROPOUT_RATE = 0.5 # dropout NOT used, here for future studies
+DROPOUT_RATE = 0.5 
 
 ####################
 # 
